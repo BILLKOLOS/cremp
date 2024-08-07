@@ -1,3 +1,5 @@
+
+  
 {
   "version": 2,
   "builds": [
@@ -19,5 +21,5 @@
       "src": "/(.*)",
       "dest": "/frontend/index.html"
     }
-  ],
-  
+  ]
+}
