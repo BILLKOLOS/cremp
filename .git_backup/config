@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://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@github.com/billkolos/Garbbi.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
