@@ -20,11 +20,4 @@
       "dest": "/frontend/index.html"
     }
   ],
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    }
-  ]
-}
-
+  
